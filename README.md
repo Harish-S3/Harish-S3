@@ -9,7 +9,9 @@
 
 - 🎓 **Education**: Pursuing MCA at SRM University
 - 🚀 **Interests**: Data Science, AI/ML, Cloud Computing, Full-Stack Development
-- 📫 **Contact Me**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-s3)
+- 📫 **Contact Me**: <a href="https://www.linkedin.com/in/harish-s3" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 - 🏆 **Achievements**:
   - Presented multiple research papers on various topics
 
@@ -36,20 +38,22 @@
 
 ## 📂 Featured Projects
 
-### 🌟 [Inventory Management App](#)
+### 🌟 [Inventory Management App](https://github.com/Harish-S3/pantry_tracker)
 **Tech Stack**: Next.js, Firebase Firestore, Material-UI
-- A single-page inventory tracking system with recipes functionality based on available pantry items.
-- **Code**: [[Repo]](https://github.com/Harish-S3/pantry_tracker)
+- A single-page inventory tracking system .
+- Can perform CRUD Operations .
 
-### 💬 [AI Chat Bot](#)
+### 💬 [AI Chat Bot](https://github.com/Harish-S3/supchat)
 **Tech Stack**: Python, TfidfVectorizer, LogisticRegression
-- Designed to handle customer queries and provide real-time responses.
-- **Code**: [[Repo]](https://github.com/Harish-S3/supchat)
+- Designed to handle frequented customer queries .
+- Hard coded JSON based responses based on keywords and pattern.
 
-### 🎲 [Random Generator App](#)
-**Tech Stack**: Python
-- A fun app that generates random data based on user preferences.
-- **Code**: [[Repo]](https://github.com/Harish-S3/random-generator)
+### 🎲 [Random Generator App](https://github.com/Harish-S3/random-generator)
+**Tech Stack**: Python, AWS S3, MongoDB, Firebase
+- A fun app that generates random number based on user preferences.
+- fetches Random FunFact with its images from MongoDB.
+- fetches Random Meme Images from AWS S3 Bucket.
+- Firebase Authentication.
 
 ---
 
