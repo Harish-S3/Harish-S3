@@ -49,8 +49,8 @@
 - **[Emotion Detector](https://github.com/Harish-S3/emotion-detector)** A desktop-based Emotion Intelligence AI
 
 ### 🌐 Web Development
-- **[Student Utility Hub](https://github.com/Harish-S3/student-utility-hub)**: All-in-one academic tools platform
-- **[Tecblaze2k25](https://github.com/Harish-S3/Tecblaze2k25)**: Symposium event website
+- **[Student Utility Hub](https://github.com/Harish-S3/student_utility)**: All-in-one academic tools platform
+- **[Tecblaze2k25](https://tecblaze2k25.vercel.app/)**: Symposium event website
 
 ### 🔧 Utility Tools
 - **[USB Guardian](https://github.com/Harish-S3/usb_guardian)**: Physical security system for USB ports
