@@ -58,13 +58,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harish-S3&theme=radical&show_icons=true&hide_border=true&count_private=true)
-</div>
-
----
 
 ## ✍️ Let's Collaborate!
 
