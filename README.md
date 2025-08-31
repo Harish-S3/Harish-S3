@@ -8,12 +8,13 @@
 ## 🌟 About Me
 
 - 🎓 **Education**: Pursuing MCA at SRM University
-- 🚀 **Interests**: Data Science, AI/ML, Cloud Computing, Full-Stack Development
+- 🚀 **Interests**: Data Science, AI/ML, Cloud Computing, Full-Stack Development, Cybersecurity
 - 📫 **Contact Me**: <a href="https://www.linkedin.com/in/harish-s3" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 - 🏆 **Achievements**:
-  - Presented multiple research papers on various topics
+  - Presented multiple research papers at international conferences
+  - Winner of Hackathon & Innovative Project Contest
 
 ---
 
@@ -38,22 +39,30 @@
 
 ## 📂 Featured Projects
 
-### 🌟 [Inventory Management App](https://github.com/Harish-S3/pantry_tracker)
-**Tech Stack**: Next.js, Firebase Firestore, Material-UI
-- A single-page inventory tracking system .
-- Can perform CRUD Operations .
+### 🔐 [USB Physical Security](https://github.com/Harish-S3/usb_guardian)
+**Tech Stack**: Python, Tkinter, OpenCV, Windows Registry, SMTP  
+- Built an authentication-based USB port control system.  
+- Prevents unauthorized device usage and sends **intruder alert with image via mail**.  
 
-### 💬 [AI Chat Bot](https://github.com/Harish-S3/supchat)
-**Tech Stack**: Python, TfidfVectorizer, LogisticRegression
-- Designed to handle frequented customer queries .
-- Hard coded JSON based responses based on keywords and pattern.
+### 🌐 [Symposium Event Website](https://github.com/Harish-S3/Tecblaze2k25)
+**Tech Stack**: HTML, CSS, JavaScript  
+- Developed a **responsive website** for a technical event.  
+- Includes event details, registration system, and integrated social links.  
+
+### 💬 [AI Chat Bot](https://github.com/Harish-S3/human_asst_bot)
+**Tech Stack**: Python, NLP, Logistic Regression  
+- Designed a chatbot using **intent classification** with TF-IDF & ML.  
+- Automates FAQs and improves user interaction experience.  
+
+### 📦 [Inventory Management App](https://github.com/Harish-S3/pantry_tracker)
+**Tech Stack**: React, Firebase Firestore, Material-UI  
+- CRUD-based **real-time inventory tracker**.  
+- Search functionality and live sync across users.  
 
 ### 🎲 [Random Generator App](https://github.com/Harish-S3/random-generator)
-**Tech Stack**: Python, AWS S3, MongoDB, Firebase
-- A fun app that generates random number based on user preferences.
-- fetches Random FunFact with its images from MongoDB.
-- fetches Random Meme Images from AWS S3 Bucket.
-- Firebase Authentication.
+**Tech Stack**: Python, Flask, Firebase, MongoDB, AWS S3  
+- Generates random memes, facts, and numbers.  
+- Uses **AWS S3 + MongoDB + Firebase authentication** for secure storage.  
 
 ---
 
@@ -68,7 +77,8 @@
 
 ## ✍️ Let's Collaborate!
 
-I’m always looking for exciting opportunities to work on **AI-driven projects** or **innovative web applications**. Feel free to connect or collaborate with me on your next big idea!
+I’m always looking for exciting opportunities to work on **AI-driven projects**, **web applications**, or **cybersecurity tools**.  
+Feel free to connect or collaborate with me on your next big idea!
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
