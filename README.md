@@ -1,6 +1,6 @@
 <div align="center">
   <h1>💻 Welcome to My GitHub Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-  <h2 style="background: linear-gradient(to right, #ff7e5f, #feb47b); -webkit-background-clip: text; color: transparent; font-weight: bold;">21 year old highly passionate tech enthusiast</h2>
+  <h2 style="background: linear-gradient(to right, #ff7e5f, #feb47b); -webkit-background-clip: text; color: transparent; font-weight: bold;">22 year old highly passionate tech enthusiast</h2>
 </div>
 
 ---
