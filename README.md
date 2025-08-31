@@ -42,7 +42,7 @@
 ## 📂 Projects
 
 ### 🤖 AI/ML Projects
-- **[QuizForge-Client](https://github.com/Harish-S3/QuizForge-Client)**: AI-powered quiz generation from PDFs/text with real-time multiplayer functionality 
+- **[QuizForge-Client](https://github.com/Harish-S3/quizforge_client)**: AI-powered quiz generation from PDFs/text with real-time multiplayer functionality 
 - **[Fake Guard](https://github.com/Harish-S3/fake_guard)**: AI-generated content detection system for text and videos
 - **[Chat Guard](https://github.com/Harish-S3/chat-guard)** ChatGuard: AI-Powered Scam Detection Chatbot
 - **[Movie Review Analysis](https://github.com/Harish-S3/movie_review_analyser)**: Advanced movie review based on sentiment analysis
